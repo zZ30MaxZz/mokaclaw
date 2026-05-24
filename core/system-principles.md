@@ -1,0 +1,6 @@
+- Git is the source of truth
+- All changes must be incremental
+- No full repository regeneration
+- Workflows define execution structure
+- Agents are role abstractions, not runtime processes
+- Reconciliation is mandatory before commit

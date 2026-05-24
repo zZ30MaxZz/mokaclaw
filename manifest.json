@@ -1,0 +1,15 @@
+{
+  "name": "mokaclaw",
+  "version": "1.0.0",
+  "description": "Agentic development framework for autonomous code evolution",
+  "structure": {
+    "core": ["system-principles.md", "execution-loop.md", "git-discipline.md", "safety-rules.md", "reconciliation-policy.md", "context-rules.md"],
+    "agents": ["orchestrator.md", "planner.md", "coder.md", "reviewer.md"],
+    "workflows": ["feature-cycle.md", "modify-repo-cycle.md", "bugfix-cycle.md", "refactor-cycle.md", "deployment-cycle.md"],
+    "routing": ["task-classifier.md", "workflow-selector.md", "execution-router.md"],
+    "context": ["context-builder.md", "repo-summarizer.md", "relevance-filter.md"],
+    "tools": ["git-policy.md", "filesystem-rules.md", "external-tools-policy.md"],
+    "prompts": ["system-bootstrap.md", "worker-entrypoint.md"],
+    "examples": ["example-feature.md", "example-bugfix.md", "example-refactor.md"]
+  }
+}
